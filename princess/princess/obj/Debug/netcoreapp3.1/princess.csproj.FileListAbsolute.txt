@@ -1,0 +1,11 @@
+C:\Users\Uladzislau Padluzhny\source\repos\princess\princess\bin\Debug\netcoreapp3.1\princess.exe
+C:\Users\Uladzislau Padluzhny\source\repos\princess\princess\bin\Debug\netcoreapp3.1\princess.deps.json
+C:\Users\Uladzislau Padluzhny\source\repos\princess\princess\bin\Debug\netcoreapp3.1\princess.runtimeconfig.json
+C:\Users\Uladzislau Padluzhny\source\repos\princess\princess\bin\Debug\netcoreapp3.1\princess.runtimeconfig.dev.json
+C:\Users\Uladzislau Padluzhny\source\repos\princess\princess\bin\Debug\netcoreapp3.1\princess.dll
+C:\Users\Uladzislau Padluzhny\source\repos\princess\princess\bin\Debug\netcoreapp3.1\princess.pdb
+C:\Users\Uladzislau Padluzhny\source\repos\princess\princess\obj\Debug\netcoreapp3.1\princess.csprojAssemblyReference.cache
+C:\Users\Uladzislau Padluzhny\source\repos\princess\princess\obj\Debug\netcoreapp3.1\princess.AssemblyInfoInputs.cache
+C:\Users\Uladzislau Padluzhny\source\repos\princess\princess\obj\Debug\netcoreapp3.1\princess.AssemblyInfo.cs
+C:\Users\Uladzislau Padluzhny\source\repos\princess\princess\obj\Debug\netcoreapp3.1\princess.dll
+C:\Users\Uladzislau Padluzhny\source\repos\princess\princess\obj\Debug\netcoreapp3.1\princess.pdb

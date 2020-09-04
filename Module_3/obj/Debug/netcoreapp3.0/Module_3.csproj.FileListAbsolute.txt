@@ -1,0 +1,11 @@
+C:\Training\module3.1\Module_3\bin\Debug\netcoreapp3.0\Module_3.exe
+C:\Training\module3.1\Module_3\bin\Debug\netcoreapp3.0\Module_3.deps.json
+C:\Training\module3.1\Module_3\bin\Debug\netcoreapp3.0\Module_3.runtimeconfig.json
+C:\Training\module3.1\Module_3\bin\Debug\netcoreapp3.0\Module_3.runtimeconfig.dev.json
+C:\Training\module3.1\Module_3\bin\Debug\netcoreapp3.0\Module_3.dll
+C:\Training\module3.1\Module_3\bin\Debug\netcoreapp3.0\Module_3.pdb
+C:\Training\module3.1\Module_3\obj\Debug\netcoreapp3.0\Module_3.csprojAssemblyReference.cache
+C:\Training\module3.1\Module_3\obj\Debug\netcoreapp3.0\Module_3.AssemblyInfoInputs.cache
+C:\Training\module3.1\Module_3\obj\Debug\netcoreapp3.0\Module_3.AssemblyInfo.cs
+C:\Training\module3.1\Module_3\obj\Debug\netcoreapp3.0\Module_3.dll
+C:\Training\module3.1\Module_3\obj\Debug\netcoreapp3.0\Module_3.pdb
